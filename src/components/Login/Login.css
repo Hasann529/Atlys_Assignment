@@ -1,0 +1,12 @@
+.login {
+  height: 100vh;
+  width: 100vw;
+  background-color: #000000;
+  position: relative;
+}
+
+.logo-img {
+  position: absolute;
+  left: 49%;
+  top: 80px;
+}
